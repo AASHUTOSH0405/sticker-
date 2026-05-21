@@ -24,7 +24,7 @@ A simple sticker gallery made using HTML, CSS, and JavaScript.
 - 50 sticker cards are generated dynamically
 
 ## Screenshot
-![Screenshot](screenshot.png)
+![Screenshot](screenshot 2026-05-21 115050.png)
 
 ## Author
 Aashutosh Kumar
