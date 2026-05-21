@@ -19,7 +19,7 @@ A simple sticker gallery created using HTML, CSS, and JavaScript.
 ├── script.js  
 
 ## Screenshot
-![Project Screenshot](screenshott.png)
+![Screenshot](screenshott.png)
 
 ## Author
 Aashutosh Kumar
