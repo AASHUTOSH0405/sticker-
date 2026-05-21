@@ -1,16 +1,16 @@
 # Sticker Gallery Project
 
-A simple sticker gallery made using HTML, CSS, and JavaScript.
+A simple sticker gallery created using HTML, CSS, and JavaScript.
 
 ## Features
-- Displays random cartoon stickers
-- Dynamic card generation using JavaScript
-- Flexible responsive layout using Flexbox
-- Multiple images shown automatically
+- Random cartoon stickers
+- Dynamic card generation
+- Flexbox layout
+- Responsive design
 
 ## Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ## Files
@@ -18,13 +18,8 @@ A simple sticker gallery made using HTML, CSS, and JavaScript.
 ├── style.css  
 ├── script.js  
 
-## How It Works
-- An array stores sticker image URLs
-- JavaScript randomly selects images
-- 50 sticker cards are generated dynamically
-
 ## Screenshot
-![Screenshot]Screenshot 2026-05-21 115050.png
+![Project Screenshot](screenshott.png)
 
 ## Author
 Aashutosh Kumar
